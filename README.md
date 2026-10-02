@@ -1,4 +1,4 @@
-# Utility Billing Anomaly Detection
+# Utility Billing Anomaly Detection. 
 
 A small Python project that identifies unusual electricity billing records by comparing actual charges with an expected charge based on typical cost per kWh.
 
